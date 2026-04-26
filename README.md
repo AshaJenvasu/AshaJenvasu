@@ -22,9 +22,11 @@ I am a passionate Software Developer with a strong foundation in modern frontend
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My Coding Stats
 
-![Asha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshaJenvasu&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshaJenvasu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Asha's Top Languages" />
+</p>
 
 ### 🔭 What I'm currently working on
 
