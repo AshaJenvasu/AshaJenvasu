@@ -1,6 +1,6 @@
 # Hi there, I'm Asha (Chaiyawat) 👋
 
-### 🚀 Junior Software Developer | 🇯🇵 APU Japan Graduate | 🌱 Learnaholic
+### 🚀 Junior Software Developer | APU Japan Graduate | 🌱 Lifelong Learner
 
 I am a passionate Software Developer with a strong foundation in modern frontend technologies and a relentless drive for learning. Coming from a multicultural background (graduated from APU Japan), I thrive in diverse environments and love tackling new technical challenges. Currently, I'm focused on building scalable, user-centric web applications.
 
@@ -14,13 +14,17 @@ I am a passionate Software Developer with a strong foundation in modern frontend
 
 **Learning / Expanding into Backend:**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,nodejs,express)](https://skillicons.dev)
 
 **Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
 ---
+
+### 📊 GitHub Stats
+
+![Asha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshaJenvasu&show_icons=true&theme=dark)
 
 ### 🔭 What I'm currently working on
 
