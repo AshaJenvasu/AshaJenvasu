@@ -22,12 +22,6 @@ I am a passionate Software Developer with a strong foundation in modern frontend
 
 ---
 
-### 📊 My Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshaJenvasu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Asha's Top Languages" />
-</p>
-
 ### 🔭 What I'm currently working on
 
 - 💻 Expanding my knowledge through an intensive **Full-Stack Development Bootcamp** (MERN).
