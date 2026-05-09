@@ -1,6 +1,6 @@
 # Hi there, I'm Asha (Chaiyawat) 👋
 
-### 🚀 Junior Software Developer | APU Japan Graduate | 🌱 Lifelong Learner
+### 🚀 Software Developer | APU Japan Graduate | 🌱 Lifelong Learner
 
 I am a passionate Software Developer with a strong foundation in modern frontend technologies and a relentless drive for learning. Coming from a multicultural background (graduated from APU Japan), I thrive in diverse environments and love tackling new technical challenges. Currently, I'm focused on building scalable, user-centric web applications.
 
