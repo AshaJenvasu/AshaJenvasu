@@ -38,9 +38,11 @@ I am a passionate Software Developer with a strong foundation in modern frontend
 
 ### 🔭 What I'm currently working on
 
-- 💻 Expanding my knowledge through an intensive **Full-Stack Development Bootcamp** (MERN).
-- 🏗️ Developing **Animemaps Thailand**, a comprehensive platform aggregating anime events using HTML, CSS, and JavaScript.
-- 🎨 Collaborating on **Creative Market**, a group project building an e-commerce platform dedicated to human-created artworks.
+💻 Expanding my backend expertise (Node.js, Express) alongside my ongoing Full-Stack Development Bootcamp.
+
+🏗️ Architecting the next phase of Animemaps Thailand, refactoring the entire frontend into a component-based structure using React.js.
+
+🎨 Collaborating on Creative Market, building a MERN-stack e-commerce platform dedicated to human-created artworks.
 
 ---
 
