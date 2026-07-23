@@ -28,7 +28,7 @@ I am a passionate Software Developer with a strong foundation in modern frontend
 
 **Learning / Expanding into Backend:**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,nodejs,express)](https://skillicons.dev)
 
 **Tools:**
 
