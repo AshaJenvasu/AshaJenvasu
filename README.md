@@ -16,7 +16,7 @@ I am a passionate Software Developer with a strong foundation in modern frontend
 - **Collaborative Leader** — Elected Cohort Leader of 40+ students, bridging
   communication gaps and fostering a high-performance team environment.
 - **Multicultural Communicator** — Studied alongside 90+ nationalities at APU
-  Japan, with professional English (875 TOEIC) and Japanese (JLPT N3).
+  Japan, with professional English (875 TOEIC) and Japanese (JLPT N2).
   
   ---
 
@@ -28,7 +28,7 @@ I am a passionate Software Developer with a strong foundation in modern frontend
 
 **Learning / Expanding into Backend:**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,nodejs,express,go)](https://skillicons.dev)
 
 **Tools:**
 
